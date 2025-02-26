@@ -1,0 +1,14 @@
+В ветке demo присутствуют коммиты: 
+"Merge branch 'buttons' into demo"
+"Merge branch 'boots' into release"
+
+Общие коммиты:
+dots
+README added
+boots
+heat added
+init
+
+Остальные коммиты присутствуют в master, но их нет в demo
+
+Это все коммиты, которые есть в ветке демо
